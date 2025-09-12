@@ -62,5 +62,5 @@ cd "$(dirname "$0")"
 EOF
 chmod +x "$INSTALL_DIR/start.sh"
 
-echo -e "${GRAY}Installation complete!${RESET}"
-echo -e "${GRAY}To start the server: $INSTALL_DIR/start.sh${RESET}"
+echo -e "${GREEN}Installation complete!${RESET}"
+echo -e "${GREEN}To start the server: $INSTALL_DIR/start.sh${RESET}"
