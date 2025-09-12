@@ -15,10 +15,10 @@ if [ -d "$INSTALL_DIR" ]; then
     echo -e "${RED}Warning: A server is already installed in $INSTALL_DIR.${RESET}"
     read -p "Cancel installation? (Y/N): " cancel
     if [[ "$cancel" =~ ^[Yy]$ ]]; then
-        echo "${RED}Installation canceled.${RESET}"
+        echo -e "${RED}Installation canceled.${RESET}"
         exit 0
     else
-        echo "${GREEN}Setup not continued. Exiting.${RESET}"
+        echo -e "${GREEN}Setup not continued. Exiting.${RESET}"
         exit 0
     fi
 fi
