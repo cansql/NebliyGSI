@@ -10,7 +10,7 @@ Each game has its own directory and a dedicated setup script.
 
 The URL pattern is:
 ```
-https://raw.githubusercontent.com/cansahinv/NebliyGSI/refs/heads/main/games/[GAME NAME]/nebliy-[GAME NAME].s
+https://raw.githubusercontent.com/cansahinv/NebliyGSI/refs/heads/main/games/[GAME NAME]/nebliy-[GAME NAME].sh
 ```
 
 Example:
