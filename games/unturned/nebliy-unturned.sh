@@ -57,8 +57,7 @@ fi
 # 5. Create start script
 cat > "$INSTALL_DIR/start.sh" <<'EOF'
 #!/bin/bash
-cd "$(dirname "$0")"
-./Unturned_Headless.x86_64 -nographics -batchmode +InternetServer/MyServer
+./ServerHelper.sh +LanServer/Example
 EOF
 chmod +x "$INSTALL_DIR/start.sh"
 
