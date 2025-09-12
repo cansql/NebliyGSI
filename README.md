@@ -13,12 +13,12 @@ Each game has its own directory and a dedicated setup script.
 
 The URL pattern is:
 ```
-https://raw.githubusercontent.com/cansahinv/NebliyGSI/refs/heads/main/games/[GAME NAME]/nebliy-[GAME NAME].sh
+https://raw.githubusercontent.com/cansql/NebliyGSI/refs/heads/main/games/[GAME NAME]/nebliy-[GAME NAME].sh
 ```
 
 Example URL:
 ```
-https://raw.githubusercontent.com/cansahinv/NebliyGSI/refs/heads/main/games/unturned/nebliy-unturned.sh
+https://raw.githubusercontent.com/cansql/NebliyGSI/refs/heads/main/games/unturned/nebliy-unturned.sh
 ```
 
 Now that we understand the URL structure, we can download the script.
@@ -27,7 +27,7 @@ Now that we understand the URL structure, we can download the script.
 
 1. **Download the script:**
 ```bash
-sudo wget https://raw.githubusercontent.com/cansahinv/NebliyGSI/refs/heads/main/games/[GAME NAME]/nebliy-[GAME NAME].sh
+sudo wget https://raw.githubusercontent.com/cansql/NebliyGSI/refs/heads/main/games/[GAME NAME]/nebliy-[GAME NAME].sh
 ```
 
 2. **Make it executable:**
