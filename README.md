@@ -22,7 +22,12 @@ https://raw.githubusercontent.com/cansql/NebliyGSI/refs/heads/main/games/unturne
 ```
 
 Now that we understand the URL structure, we can download the script.
+---
+## Supported Games
 
+Unturned
+
+---
 ## 🚀 How to Use
 
 1. **Download the script:**
