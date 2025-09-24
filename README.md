@@ -45,3 +45,7 @@ chmod +x nebliy-[GAME NAME].sh
 ```bash
 ./nebliy-[GAME NAME].sh
 ```
+
+##License
+
+MIT License
